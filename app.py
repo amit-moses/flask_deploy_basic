@@ -12,6 +12,9 @@ ALL_STUDENTS = [{
     {
     'id': 2,
     'name': 'Yochai'
+},{
+    'id': 3,
+    'name': 'Amit'
 }]
 
 
